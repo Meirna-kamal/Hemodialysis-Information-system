@@ -1,4 +1,4 @@
-# Hemoodialysis Information System
+# Hemodialysis Information System
 A website for a hemodialysis department that can be accessed by Admins, Doctors, And Patients.
 
 ![Home](https://user-images.githubusercontent.com/61427701/124504044-fb0b0a80-ddc6-11eb-90f1-2ab2e228647e.PNG)
