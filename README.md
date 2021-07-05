@@ -10,4 +10,4 @@ A website for a hemodialysis department that can be accessed by Admins, Doctors,
 ![Doctor1](https://user-images.githubusercontent.com/61427701/124503969-de6ed280-ddc6-11eb-9c53-25cf8b329cdf.PNG)
 ![DoctorShifts](https://user-images.githubusercontent.com/61427701/124504007-ea5a9480-ddc6-11eb-9ba4-6b9a18cefdd9.PNG)
 ![MedicalHistory](https://user-images.githubusercontent.com/61427701/124504106-1118cb00-ddc7-11eb-8637-efd79688c5b8.PNG)
-# Hemodialysis-Information-system
+
